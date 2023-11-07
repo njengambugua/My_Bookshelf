@@ -1,1 +1,1 @@
-# My_Bookshelf
+# Django Models, Forms and CRUD operations
